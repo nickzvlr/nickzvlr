@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickzvlr
 - 👀 I’m interested in Back-end Programming.
 - 🌱 I’m currently learning Java and Javascript.
-- 📫 Reach me at instagram: nickzvlr
+- 📫 Reach me at instagram: nickzcrf
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm 17 years old.
 
