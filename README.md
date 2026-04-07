@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Javascript.
 - 📫 Reach me at instagram: nickzcrf
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm 17 years old.
+- ⚡ Fun fact: I'm 18 years old.
 
 <!---
 nickzvlr/nickzvlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
