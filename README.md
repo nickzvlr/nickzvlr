@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @nickzvlr
+- 🤓 Studying Software Engenniring at UnB (Brasil)
 - 👀 I’m interested in Back-end Programming.
 - 🌱 I’m currently learning Java and Javascript.
 - 📫 Reach me at instagram: nickzcrf
