@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm 18 years old.
 
-- Find me at LinkeIn: www.linkedin.com/in/nicolassilvabeto
+- Find me at LinkedIn: www.linkedin.com/in/nicolassilvabeto
 
 <!---
 nickzvlr/nickzvlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
